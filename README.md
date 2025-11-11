@@ -39,7 +39,7 @@ Steps included:
 The project uses a CSV file with the following columns:
 
 
-### ✅ Timestamp Format  
+✅ Timestamp Format  
 The `Timestamp` column is in **Unix time (seconds)** but stored in scientific notation (e.g., `1.33E+09`).  
 We convert it using:
 
